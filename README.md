@@ -170,3 +170,7 @@ to be production-ready.  Here's a quick rundown of all the important files:
 * [MIT License](http://www.opensource.org/licenses/mit-license.html)
 * Lovingly crafted by [Twilio New
  York](http://www.meetup.com/Twilio/New-York-NY/) 
+
+[![githalytics.com
+alpha](https://cruel-carlota.pagodabox.com/9a41760e4b164083b1035a5a62f20d4f
+"githalytics.com")](http://githalytics.com/RobSpectre/Mobile-App-Distribution-with-SMS)
